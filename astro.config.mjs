@@ -5,6 +5,6 @@ import vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://jdrhyne.github.io',
+  site: 'https://warframe-two.vercel.app',
   adapter: vercel(),
 });
